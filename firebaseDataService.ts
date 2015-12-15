@@ -1,4 +1,4 @@
-import {Observable} from 'angular2/angular2';
+import {Observable} from 'rxjs/Observable';
 
 // Helper method for transforming the key/value pair from a snapshot into an object
 function _createRecord(key, value) {
